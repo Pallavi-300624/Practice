@@ -12,6 +12,8 @@ namespace Practice
         {
             Console.WriteLine("Hello and Welcome");
 
+            Console.WriteLine("Basic Operations");
+
             int num1 = 5;
             int num2 = 5;
             int sum = num1 + num2;
